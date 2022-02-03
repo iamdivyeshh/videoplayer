@@ -1,5 +1,5 @@
 {
-    "name": "MARRK Video Stream Bot",
+    "name": " Video Stream Bot",
     "description": "telegram bot for streaming video & music trought the telegram group video chat, powered by pytgcalls and pyrogram",
     "logo": "https://te.legra.ph/file/7b7500ae7291951918a69.jpg",
     "keywords": [
@@ -7,8 +7,8 @@
         "telegram bot",
         "video stream"
     ],
-    "website": "https://t.me/marrkmusic",
-    "repository": "https://github.com/marrk85/videostream",
+    "website": "https://t.me/HINDICHATINGGROUP",
+    "repository": "https://github.com/iamdivyeshh/videoplayer",
     "success_url": "https://t.me/marrk85",
     "env": {
         "API_ID": {
